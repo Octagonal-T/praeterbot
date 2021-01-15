@@ -1,0 +1,12 @@
+module.exports={
+	name: '',
+	description: '',
+	format: '',
+	args: null,
+	aliases: [],
+	permissions: [],
+	myPermissions: [],
+	async run(msg, args, client){
+		
+	}
+}
