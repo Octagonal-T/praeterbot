@@ -1,2 +1,4 @@
 # praeterbot
-A bot for Praeternaturals, view [here](https://discord.gg/cVEWxmP)
+A bot for Praeternaturals, view [here]()
+
+update: server closed or somethjing idk
